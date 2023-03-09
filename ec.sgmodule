@@ -1,8 +1,8 @@
 #!name=EDC-ALLinONE(iOS)
-#!desc=彩云天气VIP｜TF下载修正｜Spotify会员｜B站去广告｜知乎去广告+优化
+#!desc=彩云天气VIP｜Spotify会员｜B站去广告｜知乎去广告+优化
 
 [MITM]	
-hostname = %APPEND% biz.caiyunapp.com, testflight.apple.com, spclient.wg.spotify.com, app.bilibili.com, api.bilibili.com, api.live.bilibili.com, api.vc.bilibili.com, www.zhihu.com, api.zhihu.com, zhuanlan.zhihu.com, appcloud2.zhihu.com
+hostname = %APPEND% biz.caiyunapp.com, spclient.wg.spotify.com, app.bilibili.com, api.bilibili.com, api.live.bilibili.com, api.vc.bilibili.com, www.zhihu.com, api.zhihu.com, zhuanlan.zhihu.com, appcloud2.zhihu.com
 
 [Script]
 # 彩云天气SVIP解锁(By Tartarus
